@@ -1,0 +1,33 @@
+export const GET_MOBILES='GET_MOBILES';
+export const GET_LAPTOPS='GET_LAPTOPS';
+export const GET_CAMERAS='GET_CAMERAS';
+export const GET_AUDIO='GET_AUDIO';
+export const ADD_ITEM='ADD_ITEM';
+export const DELETE_ITEM='DELETE_ITEM';
+export const UPDATE_ITEM='UPDATE_ITEM';
+export const ITEMS_LOADING='ITEMS_LOADING';
+export const VIEW_ITEM='VIEW_ITEM';
+
+export const CART_LOADING='CART_LOADING';
+export const GET_CART='GET_CART';
+export const ADD_TO_CART='ADD_TO_CART';
+export const DELETE_FROM_CART='DELETE_FROM_CART';
+export const DECREASE_QUANTITY='DECREASE_QUANTITY';
+export const INCREASE_QUANTITY='INCREASE_QUANTITY';
+export const EMPTY_CART='EMPTY_CART';
+
+export const USER_LOADING='USER_LOADING';
+export const USER_LOADED='USER_LOADED';
+export const AUTH_ERROR='AUTH_ERROR';
+export const LOGIN_SUCCESS='LOGIN_SUCCESS';
+export const LOGIN_FAILURE='LOGIN_FAILURE';
+export const REGISTER_SUCCESS='REGISTER_SUCCESS';
+export const REGISTER_FAILURE='REGISTER_FAILURE';
+export const LOGOUT_SUCCESS='LOGOUT_SUCCESS';
+
+export const ORDER_LOADING='ORDER_LOADING';
+export const GET_ORDERS='GET_ORDERS';
+export const CHECKOUT='CHECKOUT';
+
+export const GET_ERRORS='GET_ERRORS';
+export const CLEAR_ERRORS='CLEAR_ERRORS';
